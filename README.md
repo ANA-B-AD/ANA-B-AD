@@ -7,8 +7,8 @@
   Languages and Tools:
 <style>
   .image-container img {
-    width: 200px; /* Задайте нужную ширину */
-    height: 200px; /* Задайте нужную высоту */
+    width: 100px; /* Задайте нужную ширину */
+    height: 100px; /* Задайте нужную высоту */
     object-fit: cover; /* Это свойство позволяет сохранить пропорции изображения */
   }
 </style>
