@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ANA-B-AD
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning python
-- ⚡ Fun fact:As a child, I wanted to be a cartoonist 
+-  Hi, I’m @ANA-B-AD
+-  I’m interested in analytics
+-  I’m currently learning python
+-  I graduated from the medical university
+-  Fun fact:As a child, I wanted to be a cartoonist 
 
 <!---
 ANA-B-AD/ANA-B-AD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
