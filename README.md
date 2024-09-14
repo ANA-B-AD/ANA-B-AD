@@ -6,7 +6,7 @@
 
   Languages and Tools:
   <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lpOXdheDB2bzUwaW16dzhobHE5ZHM1YnE4M2EzYzdlOTJ1bXV6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V8y1y1FzxDETVUtQE4/giphy.webp"/>
+  <img src="https://elearn.urfu.ru/pluginfile.php/1079197/course/overviewfiles/sql.jpg"/>
 </div>
 
 <!---
