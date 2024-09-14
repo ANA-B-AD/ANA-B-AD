@@ -7,7 +7,7 @@
   Languages and Tools:
 
 <div class="image-container">
-    <img src="https://elearn.urfu.ru/pluginfile.php/1079197/course/overviewfiles/sql.jpg" alt="Первое изображение"/>
+    <img src="https://static1.tgstat.ru/channels/_0/67/672687d5b2bb4ef42273667fc965f238.jpg" alt="Первое изображение"/>
 </div>
 <div class="image-container">
     <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2PRmJ?ver=cf0f&amp;m=6&amp;w=120&amp;h=120&amp;n=t&amp;q=60&amp;o=f" alt="Второе изображение"/>
