@@ -5,7 +5,7 @@
 -  Fun fact:As a child, I wanted to be a cartoonist
 
   Languages and Tools:
-  <div id="header" align="center">
+  <div>
   <img src="https://elearn.urfu.ru/pluginfile.php/1079197/course/overviewfiles/sql.jpg"/>
 </div>
 
