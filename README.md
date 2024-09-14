@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @ANA-B-AD
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning pytho
 - ⚡ Fun fact:As a child, I wanted to be a cartoonist 
 
 <!---
