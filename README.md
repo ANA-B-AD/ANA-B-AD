@@ -6,7 +6,7 @@
 
   Languages and Tools:
   <div>
-  <img src="https://elearn.urfu.ru/pluginfile.php/1079197/course/overviewfiles/sql.jpg"/>
+  <img src="https://elearn.urfu.ru/pluginfile.php/1079197/course/overviewfiles/sql.jpg" alt="Первое изображение"/>
 </div>
 <div>
   <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2PRmJ?ver=cf0f&amp;m=6&amp;w=120&amp;h=120&amp;n=t&amp;q=60&amp;o=f" alt="Второе изображение"/>
